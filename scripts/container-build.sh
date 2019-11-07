@@ -184,7 +184,7 @@ then
   OPENOCD_VERSION="0.10.0-13"
 
   OPENOCD_GIT_BRANCH=${OPENOCD_GIT_BRANCH:-"xpack"}
-  OPENOCD_GIT_COMMIT=${OPENOCD_GIT_COMMIT:-"191d1b176cf32280fc649d3c5afcff44d6205daf"}
+  OPENOCD_GIT_COMMIT=${OPENOCD_GIT_COMMIT:-"7d5865bfb40607d58e9447c7e939b4a97d70d5f6"}
   
   # ---------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ fi
 # -----------------------------------------------------------------------------
 
 OPENOCD_SRC_FOLDER_NAME=${OPENOCD_SRC_FOLDER_NAME:-"${OPENOCD_PROJECT_NAME}.git"}
-OPENOCD_GIT_URL=${OPENOCD_GIT_URL:-"https://github.com/xpack-dev-tools/openocd.git"}
+OPENOCD_GIT_URL=${OPENOCD_GIT_URL:-"https://github.com/tracylau/openocd.git"}
 
 # Used in the licenses folder.
 OPENOCD_FOLDER_NAME="openocd-${OPENOCD_VERSION}"

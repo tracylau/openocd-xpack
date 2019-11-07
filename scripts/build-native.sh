@@ -87,7 +87,7 @@ OPENOCD_PROJECT_NAME="openocd"
 OPENOCD_VERSION="0.10.0-13"
 
 OPENOCD_SRC_FOLDER_NAME=${OPENOCD_SRC_FOLDER_NAME:-"${OPENOCD_PROJECT_NAME}.git"}
-OPENOCD_GIT_URL=${OPENOCD_GIT_URL:-"https://github.com/xpack-dev-tools/openocd.git"}
+OPENOCD_GIT_URL=${OPENOCD_GIT_URL:-"https://github.com/tracylau/openocd.git"}
 
 if [ "${IS_DEVELOP}" == "y" ]
 then
