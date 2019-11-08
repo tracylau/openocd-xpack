@@ -4,7 +4,7 @@ Releases in reverse chronological order.
 
 ### 2019-11-07
 
-- update to 7d5865b from 7 Nov 2019
+- update to fd9bd15 from 7 Nov 2019
 
 ### 2019-07-20
 
