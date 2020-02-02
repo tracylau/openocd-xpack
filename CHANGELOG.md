@@ -4,6 +4,10 @@ Releases in reverse chronological order.
 
 ### 2019-11-07
 
+- update to 7cabc19 from 2 Feb 2020
+
+### 2019-11-07
+
 - update to d448204 from 7 Nov 2019
 
 ### 2019-07-20
