@@ -1,6 +1,6 @@
 {
   "name": "@tracylau/openocd",
-  "version": "0.10.0-90.2",
+  "version": "0.10.0-91",
   "description": "A binary xPack with OpenOCD",
   "main": "",
   "scripts": {
@@ -31,28 +31,28 @@
   "xpack": {
     "binaries": {
       "destination": "./.content",
-      "baseUrl": "https://github.com/tracylau/openocd-xpack/releases/download/v0.10.0-90.2",
+      "baseUrl": "https://github.com/tracylau/openocd-xpack/releases/download/v0.10.0-91",
       "skip": 3,
       "platforms": {
         "darwin-x64": {
           "sha256": "ba13b6697db9213fc51024e3bbfe6bb565106053569dfcd4b8966a75538ba7b5",
-          "fileName": "xpack-openocd-0.10.0-90.2-darwin-x64.tgz"
+          "fileName": "xpack-openocd-0.10.0-91-darwin-x64.tgz"
         },
         "linux-x86": {
           "sha256": "3283752a96235a5072eba27603f7976df00767c30acd011c84fa692cd5bfe3dd",
-          "fileName": "xpack-openocd-0.10.0-90.2-linux-x32.tgz"
+          "fileName": "xpack-openocd-0.10.0-91-linux-x32.tgz"
         },
         "linux-x64": {
           "sha256": "44fefd65e915e9e697b490eb990b4555424af3b7c166c9e298058dc555039cae",
-          "fileName": "xpack-openocd-0.10.0-90.2-linux-x64.tgz"
+          "fileName": "xpack-openocd-0.10.0-91-linux-x64.tgz"
         },
         "win32-x86": {
           "sha256": "d3801dc0f65940d23d39e3166d7e92a236f2f302d0ff7d692b34afef39ba3e4a",
-          "fileName": "xpack-openocd-0.10.0-90.2-win32-x32.zip"
+          "fileName": "xpack-openocd-0.10.0-91-win32-x32.zip"
         },
         "win32-x64": {
           "sha256": "f287d06db3d7fde4e407b939387b17d906d888c8750f0d465bef80b913c645ea",
-          "fileName": "xpack-openocd-0.10.0-90.2-win32-x64.zip"
+          "fileName": "xpack-openocd-0.10.0-91-win32-x64.zip"
         }
       }
     },

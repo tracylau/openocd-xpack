@@ -84,7 +84,7 @@ source "${common_apps_functions_script_path}"
 # -----------------------------------------------------------------------------
 
 OPENOCD_PROJECT_NAME="openocd"
-OPENOCD_VERSION="0.10.0-90.2"
+OPENOCD_VERSION="0.10.0-91"
 
 OPENOCD_SRC_FOLDER_NAME=${OPENOCD_SRC_FOLDER_NAME:-"${OPENOCD_PROJECT_NAME}.git"}
 OPENOCD_GIT_URL=${OPENOCD_GIT_URL:-"https://github.com/tracylau/openocd.git"}
